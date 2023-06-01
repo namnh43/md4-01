@@ -5,34 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e40d2cfa-5f54-418f-a9d9-d3ee259b2dae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springgreeting/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controllers/GreetingController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springmvc-intro1/src/main/java/controller/InputProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springmvc-intro1/src/main/java/controller/ProductForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springmvc-intro1/src/main/java/controller/SaveProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springmvc-intro1/src/main/java/domain/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springmvc-intro1/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springmvc-intro1/src/main/webapp/WEB-INF/jsp/ProductDetails.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springmvc-intro1/src/main/webapp/WEB-INF/jsp/ProductForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springmvc-intro1/src/main/webapp/WEB-INF/springmvc-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springmvc-intro1/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,10 +58,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/LEARN/codegym/c0223-md4/md4-01/SpringGreeting",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "07971182be5e08c1212939dafed042d6",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -177,6 +153,7 @@
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
           <artifact name="Gradle : com.example : SpringGreeting-1.0-SNAPSHOT.war" />
+          <artifact name="Gradle : com.example : SpringGreeting-1.0-SNAPSHOT.war (exploded)" />
         </option>
       </method>
     </configuration>
@@ -189,7 +166,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685520345244</updated>
-      <workItem from="1685520350345" duration="1268000" />
+      <workItem from="1685520350345" duration="2185000" />
+      <workItem from="1685525315513" duration="2667000" />
     </task>
     <servers />
   </component>
